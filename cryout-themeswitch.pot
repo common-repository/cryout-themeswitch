@@ -1,0 +1,118 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Cryout ThemeSwitch\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-24 17:18+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.4.1"
+
+#: cryout-themeswitch.php:359
+msgid "by"
+msgstr ""
+
+#: cryout-themeswitch.php:253
+msgid "Child Themes"
+msgstr ""
+
+#: cryout-themeswitch.php:336
+msgid ""
+"Child themes are indicated with an asterisk and their parent theme name. "
+"Multiple themes using the same slug are separated by the inclusion of the "
+"folder names."
+msgstr ""
+
+#: cryout-themeswitch.php:229
+msgid "Choose favorite themes..."
+msgstr ""
+
+#. Author of the plugin
+msgid "Cryout Creations"
+msgstr ""
+
+#. Name of the plugin
+msgid "Cryout Theme Switch"
+msgstr ""
+
+#: cryout-themeswitch.php:41 cryout-themeswitch.php:353
+msgid "Cryout ThemeSwitch"
+msgstr ""
+
+#: cryout-themeswitch.php:326
+msgid "Favorite Themes"
+msgstr ""
+
+#: cryout-themeswitch.php:221
+msgid "Favorites"
+msgstr ""
+
+#: cryout-themeswitch.php:370
+msgid "For support questions please use"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.cryoutcreations.eu/"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.cryoutcreations.eu/wordpress-plugins/cryout-themeswitch"
+msgstr ""
+
+#: cryout-themeswitch.php:371
+msgid "our forum"
+msgstr ""
+
+#: cryout-themeswitch.php:238
+msgid "Parent Themes"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Quickly and easily swap between themes when developing. Adds a theme "
+"switcher to the WordPress Admin Bar with all parent/child themes, favorites "
+"list and search support."
+msgstr ""
+
+#: cryout-themeswitch.php:339
+msgid "Save"
+msgstr ""
+
+#: cryout-themeswitch.php:327
+msgid ""
+"Select your favorite themes from the list below to have them always "
+"displayed in a dedicated submenu."
+msgstr ""
+
+#: cryout-themeswitch.php:452
+msgid "Settings"
+msgstr ""
+
+#: cryout-themeswitch.php:366
+msgid "Support"
+msgstr ""
+
+#: cryout-themeswitch.php:196
+#, php-format
+msgid "Theme: %s"
+msgstr ""
+
+#: cryout-themeswitch.php:358
+#, php-format
+msgid "version: %s"
+msgstr ""
+
+#: cryout-themeswitch.php:462
+msgid "Visit plugin site"
+msgstr ""
+
+#: cryout-themeswitch.php:152
+msgid "You do not have the necessary permissions to perform this action."
+msgstr ""
